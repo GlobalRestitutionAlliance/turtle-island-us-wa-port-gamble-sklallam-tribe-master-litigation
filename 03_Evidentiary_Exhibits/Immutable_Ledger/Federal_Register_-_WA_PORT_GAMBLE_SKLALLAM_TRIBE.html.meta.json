@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+PORT+GAMBLE+SKLALLAM+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+PORT+GAMBLE+SKLALLAM+TRIBE",
+  "title": "Federal Register - WA PORT GAMBLE SKLALLAM TRIBE",
+  "fetched_at": "2026-11-23T17:49:18.085281Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 104536,
+  "sha256": "1aded995579ae9c1d9c336252e9a13018c7e92f9592641530dcab616a5a5268d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
